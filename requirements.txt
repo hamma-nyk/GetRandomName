@@ -1,0 +1,4 @@
+Flask==3.0.0
+bnlearn
+joblib
+numpy==1.25.2
